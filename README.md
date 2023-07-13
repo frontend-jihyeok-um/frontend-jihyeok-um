@@ -2,8 +2,6 @@
 
 
 <div>
-	<p>👨‍💻 Frontend Developer</p>
-	
 <a href="https://velog.io/@thumb_hyeok">
 	<img src="https://img.shields.io/badge/Dev Blog-20C997?style=flat&logo=Velog&logoColor=white" />
 </a>
@@ -11,6 +9,9 @@
 	<img src="https://img.shields.io/badge/Resume-000000?style=flat&logo=Notion&logoColor=white" />
 </a>	
 </div>
+
+<p>👨‍💻 Frontend Developer</p>
+
 
 ---
 
