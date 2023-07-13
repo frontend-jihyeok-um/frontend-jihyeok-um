@@ -1,7 +1,5 @@
 # 👋 엄지혁 Um Ji Hyeok
 
----
-
 👨‍💻 Frontend Developer
 
 <!--
