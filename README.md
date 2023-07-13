@@ -1,4 +1,8 @@
-### Hi there 👋
+# 👋 엄지혁 Um Ji Hyeok
+
+---
+
+👨‍💻 Frontend Developer
 
 <!--
 **notPotter/notPotter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
