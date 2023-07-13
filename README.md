@@ -7,10 +7,13 @@
 </a>
 <a href="https://www.notion.so/UX-e72ac260099c4e7aab6e404d69839e50?pvs=4">
 	<img src="https://img.shields.io/badge/Resume-000000?style=flat&logo=Notion&logoColor=white" />
-</a>	
+</a>
 </div>
 
-<p>👨‍💻 Frontend Developer</p>
+<br>
+
+- 👨‍💻 Frontend Developer
+- 🎉 UX 및 DX 개선에 관심이 많습니다!
 
 
 ---
