@@ -1,11 +1,14 @@
 # 👋 Harry's Github Profile
 
-<a href="https://velog.io/@thumb_hyeok">
-	<img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=Dev Blog&logoColor=white" />
-</a>
-<a href="https://www.notion.so/UX-e72ac260099c4e7aab6e404d69839e50?pvs=4">
-	<img src="https://img.shields.io/badge/Notion-20C997?style=flat&logo=Resume&logoColor=white" />
-</a>
+<p dir="auto" >
+	<a href="https://velog.io/@thumb_hyeok">
+		<img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=Dev Blog&logoColor=white" />
+	</a>
+	<a href="https://www.notion.so/UX-e72ac260099c4e7aab6e404d69839e50?pvs=4">
+		<img src="https://img.shields.io/badge/Notion-20C997?style=flat&logo=Resume&logoColor=white" />
+	</a>	
+</p>
+
 
 👨‍💻 Frontend Developer
 
