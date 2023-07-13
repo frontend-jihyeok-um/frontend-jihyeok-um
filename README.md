@@ -1,4 +1,4 @@
-## 👋 Harry, Um Ji Hyeok
+## 👋 Harry's Github Profile
 
 👨‍💻 Frontend Developer
 
