@@ -1,14 +1,6 @@
 # 👋 Harry's Github Profile
 
 
-<div>
-<a href="https://velog.io/@thumb_hyeok">
-	<img src="https://img.shields.io/badge/Dev Blog-20C997?style=flat&logo=Velog&logoColor=white" />
-</a>
-<a href="https://www.notion.so/UX-e72ac260099c4e7aab6e404d69839e50?pvs=4">
-	<img src="https://img.shields.io/badge/Resume-000000?style=flat&logo=Notion&logoColor=white" />
-</a>
-</div>
 
 <br>
 
