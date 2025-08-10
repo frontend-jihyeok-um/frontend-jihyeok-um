@@ -12,11 +12,12 @@
 ---
 
 
-Contact Information
-✉️ Email | visualstuio530@gmail.com
-💼 LinkedIn | https://www.linkedin.com/in/%EC%A7%80%ED%98%81-%EC%97%84-b96603255
-📄 Resumes | https://chrome-tune-f34.notion.site/DX-1c033f31db5e806fa676d4b9d1a05578
-✍️ Blog | https://medium.com/@visualstudio530 | https://velog.io/@thumb_hyeok/posts
+## Contact Information
+
+- ✉️ Email | visualstuio530@gmail.com
+- 💼 LinkedIn | https://www.linkedin.com/in/%EC%A7%80%ED%98%81-%EC%97%84-b96603255
+- 📄 Resumes | https://chrome-tune-f34.notion.site/DX-1c033f31db5e806fa676d4b9d1a05578
+- ✍️ Blog | https://medium.com/@visualstudio530 | https://velog.io/@thumb_hyeok/posts
 
 
 
