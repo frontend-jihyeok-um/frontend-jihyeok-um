@@ -1,28 +1,22 @@
-# 👋 Harry's Github Profile
-
+# Jihyeok  👋
 
 
 <br>
 
 - 👨‍💻 Frontend Developer
-- 🎉 UX 및 DX 개선에 관심이 많습니다!
+- 깊게 고민해 문제 상황를 정의하고 해결하는 데에 관심이 많습니다.
+- '잘 되고 있으니까, 지금까지 그렇게 해왔으니까' 하는 비효율적이거나 불필요한 것들을 드러내고 문제를 제기해 해결하는 것을 좋아합니다.
+- 이러한 과정을 통해 DX와 팀 생산성을 향상시켜, 더 중요한 문제를 풀기 위한 리소스를 확보하는 고민을 하고 있습니다.
 
 
 ---
 
 
-
-<h3>⚙️ Tech Stack</h3>
-
-
-<div>
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />		
-</div>	
-
+Contact Information
+✉️ Email | visualstuio530@gmail.com
+💼 LinkedIn | https://www.linkedin.com/in/%EC%A7%80%ED%98%81-%EC%97%84-b96603255
+📄 Resumes | https://chrome-tune-f34.notion.site/DX-1c033f31db5e806fa676d4b9d1a05578
+✍️ Blog | https://medium.com/@visualstudio530 | https://velog.io/@thumb_hyeok/posts
 
 
 
