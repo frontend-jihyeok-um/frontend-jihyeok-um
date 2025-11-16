@@ -10,7 +10,7 @@
 
 
 ## ✒ Posts & Blog
-
+- [복잡한 웹 페이지도 개발자 없이 만드는 웹 빌더 “에디터” 개발기 -3-](https://medium.com/@visualstudio530/how-to-create-complex-web-pages-without-a-developer-3-8b3495ef95db)
 - [복잡한 웹 페이지도 개발자 없이 만드는 웹 빌더 “에디터” 개발기 -2-](https://medium.com/catchtable/how-to-create-complex-web-pages-without-a-developer-5fe97483f4fa)
 - [복잡한 웹 페이지도 개발자 없이 만드는 웹 빌더 “에디터” 개발기 -1-](https://medium.com/catchtable/how-to-create-complex-web-pages-without-a-developer-2-9768dbb46b82)
 - [Blog](https://medium.com/@visualstudio530) | [history](https://velog.io/@thumb_hyeok/posts)
